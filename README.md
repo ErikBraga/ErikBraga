@@ -1,6 +1,11 @@
 ## Bem vindo ao meu GitHub!
 
-![Erikb GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikBraga&show_icons=true&theme=neon)
+<p>
+  Sou um estudante apaixonado por Tecnologia da Informação, em busca de se aprimorar em
+  Desenvolvimento Web.<br/> Experiência em HTML, CSS e JavaScript. Comprometido
+  em contribuir para projetos desafiadores, com foco em aprendizado contínuo e
+  crescimento profissional.
+</p>
 
 ## Tecnologias que eu uso no meu dia
 
