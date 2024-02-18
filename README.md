@@ -1,3 +1,5 @@
+## Bem vindo ao meu GitHub!
+
 ![Erikb GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikBraga&show_icons=true&theme=neon)
 
 ## Tecnologias que eu uso no meu dia
